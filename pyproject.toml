@@ -10,6 +10,7 @@ jupyter = "1.0.0"
 python = "3.10.10"
 selenium = "4.8.3"
 spacy = "3.5.2"
+tomli = "*"
 
 
 [build-system]
